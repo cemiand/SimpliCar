@@ -1,0 +1,23 @@
+.productsH1 {
+  color: white;
+  text-align: center;
+  height: 6rem;
+  background-color: rgb(196, 196, 196);
+  line-height: 6rem;
+}
+
+.productImg {
+  max-height: 50%;
+}
+
+.card {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  min-height: 35rem !important;
+}
+
+.col-md-4 {
+  background: black;
+  border-radius: 10px;
+}

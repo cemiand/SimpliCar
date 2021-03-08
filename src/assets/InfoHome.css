@@ -1,0 +1,28 @@
+.bg {
+  background-image: url("https://s1.cdn.autoevolution.com/images/news/nissan-teases-2021-navara-pickup-truck-will-debut-on-november-5th-150703_1.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.infoHomeContainer {
+  width: 40vh;
+  position: absolute;
+  top: 50%;
+  left: 2%;
+}
+
+.infoHomeh1 {
+  color: rgb(168, 30, 30);
+  font-weight: bold;
+}
+
+.pColor {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.botonStore {
+  width: 20rem;
+}

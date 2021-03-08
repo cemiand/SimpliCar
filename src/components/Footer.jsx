@@ -9,6 +9,7 @@ const Footer = () => {
       </p>
       <div className="container-fluid footerUl">
         <ul className="row footerUl">
+          {/* ACA IRIAN LINKS A LAS DIFERENTES RUTAS, NO LIs */}
           <li className="col">COTIZACION DE VEHICULOS</li>
           <li className="col">RALITOR S.A.</li>
           <li className="col">AYUDA AL CLIENTE</li>

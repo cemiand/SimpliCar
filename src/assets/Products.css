@@ -15,9 +15,24 @@
   margin-bottom: 1rem;
   border-radius: 10px;
   min-height: 35rem !important;
+  border: 2px solid grey;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
 }
 
 .col-md-4 {
-  background: black;
   border-radius: 10px;
+}
+
+.details {
+  text-decoration: none;
+  color: rgb(187, 25, 25);
+}
+
+.card-title {
+  text-align: center;
 }

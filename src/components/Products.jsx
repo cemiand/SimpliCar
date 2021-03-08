@@ -24,9 +24,13 @@ const Products = ({ products }) => {
                     />
                     <div className="card-body stayBottom">
                       <h5 className="card-title">{product.model}</h5>
-                      <p className="card-text"> ${product.price}</p>
+                      <br />
+                      <p className="card-text">
+                        {" "}
+                        Precio desde ${product.price}
+                      </p>
                       <Link to={`/product/${product.id}`} className="details">
-                        Ver detalles del modelo:
+                        Ver detalles del modelo ->
                       </Link>
                     </div>
                   </div>

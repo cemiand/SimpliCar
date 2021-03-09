@@ -11,3 +11,6 @@
 - Redux
 - CSS
 - Bootstrap
+
+# Api
+- Por problemas para hacer correr la API dada, se utilizó la siguiente: https://carsapi1.docs.apiary.io/#
